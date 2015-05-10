@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignPractice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pre_result_text">information about url will come here</string>
+    <string name="inserturlhint">insert url here</string>
+    <string name="geturldatabutton">download</string>
+</resources>
