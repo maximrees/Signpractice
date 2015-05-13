@@ -23,4 +23,5 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:22.1.1'
     compile files('C:/Users/Joss/StudioProjects/Signpractice/libs/jsoup-1.8.2.jar')
+    compile files('H:/SignLanguage/libs/jsoup-1.8.2.jar')
 }
